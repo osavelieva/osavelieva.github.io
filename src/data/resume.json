@@ -1,0 +1,427 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Olena Savelieva",
+    "label": "Senior Frontend Developer",
+    "image": "",
+    "email": "osavelieva@pm.me",
+    "phone": "",
+    "url": "",
+    "summary": "Focused on building easy-to-use, visually appealing websites and applications. Enjoy working closely with teams and mentoring colleagues to deliver features that align with business goals and drive product success. Always staying current with technology trends and eager to learn new skills to enhance projects and support team growth.",
+    "location": {
+      "countryCode": "US",
+      "address": "Ukraine"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "osavelieva",
+        "url": "https://www.linkedin.com/in/osavelieva/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Trinetix",
+      "position": "Senior Frontend Developer",
+      "startDate": "2025-03-01",
+      "endDate": "",
+      "highlights": [],
+      "summary": "• Develop and maintain Angular web applications, delivering high-quality user interfaces that integrate with RESTful APIs to provide dynamic, responsive experiences.\n• Contribute to products where AI technologies are an integral part.\n• Ensure maintainability, scalability, and performance across projects by applying best practices in Angular development, state management, and component architecture.\n• Participate in code reviews and promote knowledge sharing to foster a collaborative and efficient development environment.\n• Work within agile teams, contributing to sprint planning, backlog grooming, and continuous delivery to align development efforts with business goals.",
+      "url": "https://www.linkedin.com/company/trinetix-inc/",
+      "location": "Lviv, Ukraine"
+    },
+    {
+      "name": "MGID",
+      "position": "Frontend Technical Lead",
+      "startDate": "2023-01-01",
+      "endDate": "2024-11-30",
+      "highlights": [],
+      "summary": "• Maintained and enhanced multiple Angular applications tailored to various business client needs, ensuring high performance, scalability, and reliability across projects.\n• Led the development of complex features that addressed critical business requirements, collaborating closely with product managers, designers, and stakeholders.\n• Actively participated in feature design and planning from a UX perspective, advocating for user-centric interfaces that balance functionality with intuitive interactions.\n• Provided technical leadership by mentoring and guiding front-end developers, fostering best practices in coding standards, testing, and architecture to elevate team performance.\n• Oversaw code quality through rigorous code reviews and established development workflows that supported agile methodologies.",
+      "url": "https://www.linkedin.com/company/mgid-inc-/",
+      "location": "Lviv, Ukraine"
+    },
+    {
+      "name": "Swiss Re",
+      "position": "Frontend Technical Lead",
+      "startDate": "2020-06-01",
+      "endDate": "2022-10-31",
+      "highlights": [],
+      "summary": "• Extended and maintained a web application and Nx-based modules focused on geospatial data presentation and interactive map features, delivering efficient and user-friendly solutions for spatial data visualization and interaction.\n• Led the front-end development team, overseeing technical direction, coordinating workflows, and ensuring timely delivery of features.\n• Mentored junior developers and onboarded new team members, supporting their professional growth through code reviews, pair programming, and knowledge sharing.\n• Conducted analysis and design for complex front-end features, including map interactions and data visualization components.\n• Collaborated closely with geospatial experts and domain specialists to ensure accurate representation and meaningful interactions with spatial data, translating domain knowledge into effective UI solutions.\n• Collaborated with cross-functional teams on shared features, aligning implementation strategies and API contracts to ensure consistency.",
+      "url": "https://www.linkedin.com/company/swiss-re/",
+      "location": "Kharkiv, Ukraine"
+    },
+    {
+      "name": "Studytube",
+      "position": "Senior Frontend Developer",
+      "startDate": "2018-12-01",
+      "endDate": "2020-06-30",
+      "highlights": [],
+      "summary": "• Extended and maintained multiple integrated web applications forming an interactive learning platform, focusing on performance, scalability, and long-term maintainability.\n• Developed and enhanced features using Angular, working closely with designers and product managers to deliver user-friendly web apps.\n• Regularly performed code reviews and refactoring, promoting best practices and improving code readability, testability, and maintainability across the codebase.\n• Mentored junior developers, supporting their growth through code reviews, technical guidance, and pair programming.\n• Participated in agile ceremonies using Jira and Confluence to manage project tasks, document decisions, and coordinate with cross-functional teams.\n• Leveraged AWS services for deployment and scalability, and used Sentry to monitor and troubleshoot front-end issues in production.\n• Collaborated with localisation teams using Crowdin to ensure a multilingual experience across the platform.",
+      "url": "https://www.linkedin.com/company/studytube/",
+      "location": "Kharkiv Region, Ukraine"
+    },
+    {
+      "name": "FundedByMe",
+      "position": "Frontend Developer",
+      "startDate": "2016-07-01",
+      "endDate": "2018-12-31",
+      "highlights": [],
+      "summary": "• Contributed to the migration of a Django template-based website to a modern Angular single-page application, improving performance, maintainability, and user experience.\n• Participated in requirements gathering by working closely with product managers, designers, and stakeholders to define features and ensure alignment between business goals and technical solutions.\n• Used Git and Gerrit for version control and code reviews, Jenkins for continuous integration and automated builds, and Jira and Confluence to manage tasks and document project progress.\n• Worked with Transifex and Zanata to support internationalisation and localisation, enabling the product to serve a diverse user base.\n• Provided mentorship to junior developers, helping improve code quality, onboarding processes, and team collaboration through knowledge sharing and code reviews.\n• Contributed actively in an agile environment, taking part in sprint planning, stand-ups, and retrospectives to drive iterative improvements.",
+      "url": "https://www.linkedin.com/company/fundedbyme/",
+      "location": "Kharkiv, Ukraine"
+    },
+    {
+      "name": "EchoStar Corporation",
+      "position": "Frontend Developer",
+      "startDate": "2015-10-01",
+      "endDate": "2016-07-31",
+      "highlights": [],
+      "summary": "• Developed responsive web applications using React and jQuery.\n• Built web apps for satellite receiver set-top boxes, working within the constraints of a proprietary browser engine, optimising for limited processing power and unique rendering behaviours.\n• Collaborated with stakeholders to refine product features and functional specifications.\n• Contributed to interface design, focusing on creating intuitive and user-friendly user interfaces.\n• Participated in code reviews and debugging to ensure high-quality deliverables.",
+      "url": "https://www.linkedin.com/company/echostar-corporation/",
+      "location": "Kharkiv"
+    },
+    {
+      "name": "MobiDev",
+      "position": "Frontend Developer",
+      "startDate": "2014-10-01",
+      "endDate": "2015-05-31",
+      "highlights": [],
+      "summary": "• Built responsive, cross-browser websites by translating high-fidelity designs into semantic HTML5, CSS3, and JavaScript code. Ensured consistent layout across devices using mobile-first principle.\n• Created and maintained style guides to document reusable UI components and visual patterns, streamlining development and making future updates easier and more consistent.\n• Worked closely with UI/UX designers and back-end developers to bring designs to life, ensuring alignment with usability best practices and technical feasibility.\n• Used Adobe Photoshop to extract design assets, tweak visuals, and collaborate with designers on layout adjustments.",
+      "url": "https://www.linkedin.com/company/mobidev/",
+      "location": "Kharkiv, Ukraine"
+    },
+    {
+      "name": "XPANN",
+      "position": "Frontend Developer",
+      "startDate": "2014-01-01",
+      "endDate": "2014-06-30",
+      "highlights": [],
+      "summary": "• Contributed to the website redesign collaborating with the development team.\n• Implemented responsive web pages by converting design mockups using HTML5, CSS3, JavaScript, and Bootstrap.\n• Ensured cross-browser compatibility and consistent presentation across various devices and screen sizes through thorough testing and fine-tuning.\n• Used Adobe Photoshop to extract and optimise design assets.",
+      "url": "",
+      "location": "Kharkiv, Ukraine"
+    },
+    {
+      "name": "Mascot International A/S",
+      "position": "QA engineer / UX engineer",
+      "startDate": "2012-02-01",
+      "endDate": "2013-06-30",
+      "highlights": [],
+      "summary": "Conducting and documenting stakeholder interviews. Prototyping on paper and using software. Finding the ways to advance product and business processes to being more efficient by means of technology. Improving and enhancing product by applying web usability best practices. Writing requirements for features and functionality. Writing and executing test cases and test scripts for manual testing of ASP.NET MVC single-page application (SPA).\n\nCreating, editing and modifying SPA templates (HTML, CSS, JS, CofeeScript). Testing cross-browser and cross-device compatibility for inconsistencies. Testing for compliance to specified standards such as accessibility standards in specific region or domain. Reviewing designs against usability heuristics.\n\nGained familiarity with:\n- LESS, JS, CoffeeScript languages\n- Evolus Pencil, Cacco prototyping tools\n- Jetbrains Youtrack, FogCreek Trello issue tracking and project management tools\n- Atlassian Confluence content collaboration tool\n- Subversion VCS",
+      "url": "https://www.linkedin.com/company/mascot-workwear/",
+      "location": "Kharkiv, Ukraine"
+    },
+    {
+      "name": "Alfapeople Denmark A/S",
+      "position": "QA engineer",
+      "startDate": "2011-04-01",
+      "endDate": "2012-02-28",
+      "highlights": [],
+      "summary": "Executing, writing and maintaining test scripts for manual testing of C# .NET web applications built on top of MS SharePoint 2007/2010, MS CRM 2004/2010 applications.\n\nWriting and maintaining project documentation. Preparing user guides for clients.\n\nGained familiarity with:\n- MS SharePoint 2007/2010\n- MS CRM 2004/2010\n- MS SQL Server 2008 R2",
+      "url": "https://www.linkedin.com/company/alfapeople/",
+      "location": "Ukraine, Kharkiv"
+    },
+    {
+      "name": "NameCheap, Inc",
+      "position": "Customer Support Supervisor",
+      "startDate": "2008-09-01",
+      "endDate": "2011-04-30",
+      "highlights": [],
+      "summary": "Communication with clients as sales person and technical support person (chat and ticket system). Responsible for assisting clients with domain name registration, web hosting and SSL certificates services. Dealing with problematic clients. Processing legal inquiries and complaints.\n\nMentoring and supervising co-workers. Team lead.\n\nWriting and maintaining product knowledgebase. \n\nGained familiarity with:\n- ModernBill, WHMCS, CS Cart, UberSmith billing systems\n- cPanel and WHM hosting control panels\n- Kayako support system",
+      "url": "https://www.linkedin.com/company/namecheap-inc/",
+      "location": "Ukraine, Kharkiv"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "KSTUCA, Kharkiv",
+      "area": "Ecology and Environment Protection",
+      "studyType": "Master",
+      "startDate": "2004-01-01",
+      "endDate": "2009-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "UX Design for Mobile Developers",
+      "issuer": "Udacity",
+      "startDate": "2014-10-01",
+      "url": "https://www.udacity.com/course/ux-design-for-mobile-developers--ud849"
+    },
+    {
+      "name": "Mobile Web Development",
+      "issuer": "Udacity",
+      "startDate": "2014-11-01",
+      "url": "https://www.udacity.com/course/mobile-web-development--cs256"
+    },
+    {
+      "name": "MCTS: SharePoint 2010, Configuration",
+      "issuer": "Microsoft",
+      "startDate": "2011-08-01",
+      "url": "http://www.microsoft.com/learning/en-us/certification-overview.aspx"
+    },
+    {
+      "name": "MCPS: Microsoft Certified Professional",
+      "issuer": "Microsoft",
+      "startDate": "2012-04-01",
+      "url": "http://www.microsoft.com/learning/en-us/certification-overview.aspx"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Mentoring",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Requirements Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sass",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GitHub",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Angular",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Django",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "RxJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Confluence",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Crowdin",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Zanata",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Figma",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jest",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Stylus",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Backbone",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Experience (UX)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SVN",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jira",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adobe Photoshop",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Transifex",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MapboxGL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "InVision",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "REST",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure DevOps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gulp",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Taiga UI",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jenkins",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mapbox Vector Tiles",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AWS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NgRx",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "nx",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gerrit",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sentry",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Elf",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS3",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Full Professional",
+      "language": "English"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Ukrainian"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Mascot SmartStore",
+      "startDate": "2011-08-01",
+      "summary": "New version of the workwear webshop by Mascot International A/S",
+      "url": "http://www.mascotsmartstore.com/",
+      "endDate": "2013-06-30"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
