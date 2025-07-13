@@ -22,7 +22,7 @@
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="1.5" class="size-6" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 21h19.5m-18-18v18m10.5-18v18m6-13.5V21M6.75 6.75h.75m-.75 3h.75m-.75 3h.75m3-6h.75m-.75 3h.75m-.75 3h.75M6.75 21v-3.375c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21M3 3h12m-.75 4.5H21m-3.75 3.75h.008v.008h-.008v-.008Zm0 3h.008v.008h-.008v-.008Zm0 3h.008v.008h-.008v-.008Z"/></svg>
       </div>
       <div class="my-3 md:text-start" [ngClass]="even ? 'timeline-start' : 'timeline-end'">
-        <div class="card bg-base-100 w-160 shadow shadow-secondary/33">
+        <div class="card bg-base-100 shadow shadow-secondary/33">
           <div class="card-body">
             <h3 class="card-title">{{workItem.position}}</h3>
             <div class="flex flex-col gap-0">
@@ -46,17 +46,17 @@
   }
 </ul>
 
-<footer class="footer sm:footer-horizontal bg-secondary/33 text-neutral-content items-center p-4">
+<footer class="footer sm:footer-horizontal bg-secondary/33 text-neutral-content items-center p-4 gap-4">
   <aside class="grid-flow-col items-center">
-    <img width="64" height="64" src="https://img.icons8.com/dusk/64/unicorn--v1.png" alt="unicorn--v1"/>
-    <p>Copyright © {{currentYear}} - All rights reserved</p>
+    <img class="size-4 md:size-8" src="https://img.icons8.com/dusk/64/unicorn--v1.png" alt="unicorn--v1"/>
+    <p class="text-xs">Copyright © {{currentYear}} - All rights reserved</p>
   </aside>
-  <nav class="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
+  <nav class="grid-flow-col gap-4 sm:place-self-center sm:justify-self-end">
     <a target="_blank" href="mailto:olena@savelieva.page">
-      <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="1.5" class="size-12" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M16.5 12a4.5 4.5 0 1 1-9 0 4.5 4.5 0 0 1 9 0Zm0 0c0 1.657 1.007 3 2.25 3S21 13.657 21 12a9 9 0 1 0-2.636 6.364M16.5 12V8.25"/></svg>
+      <svg class="size-4 md:size-6" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M16.5 12a4.5 4.5 0 1 1-9 0 4.5 4.5 0 0 1 9 0Zm0 0c0 1.657 1.007 3 2.25 3S21 13.657 21 12a9 9 0 1 0-2.636 6.364M16.5 12V8.25"/></svg>
     </a>
     <a target="_blank" href="https://www.linkedin.com/in/osavelieva/">
-      <svg xmlns="http://www.w3.org/2000/svg" class="size-12" fill="currentColor"><path d="M41 4H9C6.24 4 4 6.24 4 9v32c0 2.76 2.24 5 5 5h32c2.76 0 5-2.24 5-5V9c0-2.76-2.24-5-5-5zM17 20v19h-6V20h6zm-6-5.53c0-1.4 1.2-2.47 3-2.47s2.93 1.07 3 2.47c0 1.4-1.12 2.53-3 2.53-1.8 0-3-1.13-3-2.53zM39 39h-6V29c0-2-1-4-3.5-4.04h-.08C27 24.96 26 27.02 26 29v10h-6V20h6v2.56S27.93 20 31.81 20c3.97 0 7.19 2.73 7.19 8.26V39z"/></svg>
+      <svg class="size-4 md:size-6" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 382 382"><path d="M347.445 0H34.555C15.471 0 0 15.471 0 34.555v312.889C0 366.529 15.471 382 34.555 382h312.889C366.529 382 382 366.529 382 347.444V34.555C382 15.471 366.529 0 347.445 0zM118.207 329.844c0 5.554-4.502 10.056-10.056 10.056H65.345c-5.554 0-10.056-4.502-10.056-10.056V150.403c0-5.554 4.502-10.056 10.056-10.056h42.806c5.554 0 10.056 4.502 10.056 10.056v179.441zM86.748 123.432c-22.459 0-40.666-18.207-40.666-40.666S64.289 42.1 86.748 42.1s40.666 18.207 40.666 40.666-18.206 40.666-40.666 40.666zM341.91 330.654a9.247 9.247 0 0 1-9.246 9.246H286.73a9.247 9.247 0 0 1-9.246-9.246v-84.168c0-12.556 3.683-55.021-32.813-55.021-28.309 0-34.051 29.066-35.204 42.11v97.079a9.246 9.246 0 0 1-9.246 9.246h-44.426a9.247 9.247 0 0 1-9.246-9.246V149.593a9.247 9.247 0 0 1 9.246-9.246h44.426a9.247 9.247 0 0 1 9.246 9.246v15.655c10.497-15.753 26.097-27.912 59.312-27.912 73.552 0 73.131 68.716 73.131 106.472v86.846z" fill="currentColor"/></svg>
     </a>
   </nav>
 </footer>
